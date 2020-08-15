@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views)
+![](https://komarev.com/ghpvc/?smash-96=your-github-username&label=Profile+Views)
 
 <!--
 **smash-96/smash-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
