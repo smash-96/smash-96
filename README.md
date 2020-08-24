@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=smash-96&label=PROFILE+VIEWS)
 
 <!--
