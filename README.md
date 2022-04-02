@@ -4,6 +4,7 @@
 <h3 align="center">cout << "I'm a Software Engineer and Developer" << endl </h3>
 
 ![](https://komarev.com/ghpvc/?username=smash-96&label=PROFILE+VIEWS)
+[![wakatime](https://wakatime.com/badge/user/7f42371f-1ba7-4411-acb9-a15f709b17d3.svg)](https://wakatime.com/@7f42371f-1ba7-4411-acb9-a15f709b17d3)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smash-96" alt="smash-96" /></a> </p>
 
