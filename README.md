@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me: __maisamalishah@gmail.com__
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1_NfKL17mfrrIY6u5l84QFzBv2n7qvl-Yg1B_l2EcEiI/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1pEmwlALzSGg5pQl3BVUzpIKYZPGEKH8hHburdBTcDVY/edit?usp=sharing)
 
 - 😄 Pronouns: He/Him
 
