@@ -13,17 +13,17 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently building a cross platform mobile application in __React Native__
+- 🔭 I’m currently a Full-Stack Web and Mobile Application developer working in __React Native/React/NextJS__
 
-- 🌱 I’m currently learning __Block Chain__ and how to integrate it in fields other than finance
+- 🌱 I’m currently learning __AWS__ and __Distributed Systems__ and how they can be used to scale applictions
 
 - 📫 How to reach me: __maisamshah57@gmail.com__
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1pEmwlALzSGg5pQl3BVUzpIKYZPGEKH8hHburdBTcDVY/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/14eV6cUrk55osCQbI6wqvJEJh1mv2lQ1wZqPiE4Gv1L8/edit?usp=sharing) [My LinkedIn](https://www.linkedin.com/in/syed-maisam-ali-shah-40197869/)
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: One Piece is the best Anime in the world!
+- ⚡ Fun fact: I know which code to copy and paste from stack overflow!
 
 ### My featured projects:rocket:
 
