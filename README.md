@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently a Full-Stack Web and Mobile Application developer working in __React Native/React/NextJS__
 
-- 🌱 I’m currently learning __AWS__ and __Distributed Systems__ and how they can be used to scale applictions
+- 🌱 I’m currently learning __AWS__ and __Distributed Systems__ and how they can be used to scale applications
 
 - 📫 How to reach me: __maisamshah57@gmail.com__
 
