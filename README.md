@@ -13,17 +13,17 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently a Full-Stack Web and Mobile Application developer working in __React Native/React/NextJS__
+- 🔭 I’m currently a Full-Stack Web and Mobile Application developer working in __React Native/React/NextJS/AWS__
 
 - 🌱 I’m currently learning __AWS__ and __Distributed Systems__ and how they can be used to scale applications
 
-- 📫 How to reach me: __maisamshah57@gmail.com__
+- 📫 How to reach me: [Email](mailto:maisamshah57@gmail.com) [LinkedIn](https://www.linkedin.com/in/syed-maisam-ali-shah-40197869/)
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/14eV6cUrk55osCQbI6wqvJEJh1mv2lQ1wZqPiE4Gv1L8/edit?usp=sharing) [My LinkedIn](https://www.linkedin.com/in/syed-maisam-ali-shah-40197869/)
-
-- 😄 Pronouns: He/Him
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/14eV6cUrk55osCQbI6wqvJEJh1mv2lQ1wZqPiE4Gv1L8/edit?usp=sharing)
 
 - ⚡ Fun fact: I know which code to copy and paste from stack overflow!
+
+- 🤔 Want to know more about me? [Click here!](https://linktr.ee/smash96)
 
 ### My featured projects:rocket:
 
