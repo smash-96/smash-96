@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 
 - 🤔 Want to know more about me? [Click here!](https://linktr.ee/smash96)
 
-### My featured projects:rocket:
+### My featured projects :rocket:
 
 <code>[Fire Arm and Person Detection](https://github.com/smash-96/FireArm-Person-Detector)</code>
 
