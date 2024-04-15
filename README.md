@@ -1,7 +1,7 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">I'm Maisam Shah</h1>
-<h3 align="center">cout << "I'm a Full Stack Mobile and Web Application Developer" << endl </h3>
+<h3 align="center">cout << "I'm a Full Stack Web & Mobile Application Engineer" << endl </h3>
 
 ![](https://komarev.com/ghpvc/?username=smash-96&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/7f42371f-1ba7-4411-acb9-a15f709b17d3.svg)](https://wakatime.com/@7f42371f-1ba7-4411-acb9-a15f709b17d3)
@@ -48,3 +48,6 @@ I'm open to collaboration on projects related to  Mobile and Web app development
 </a> 
 </p>
 🚀 Dive into a world of creativity, technology, and a sprinkle of the extraordinary! ✨
+
+<!--🦶FOOTER--> 
+<img src="footer.svg" width="100%">
